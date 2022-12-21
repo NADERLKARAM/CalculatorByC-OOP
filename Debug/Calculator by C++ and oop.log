@@ -1,0 +1,7 @@
+﻿  Calculator by C++ and oop.cpp
+C:\Users\NADER\source\repos\Calculator by C++ and oop\Calculator by C++ and oop.cpp(51,26): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Calculator by C++ and oop.vcxproj -> C:\Users\NADER\source\repos\Calculator by C++ and oop\Debug\Calculator by C++ and oop.exe
